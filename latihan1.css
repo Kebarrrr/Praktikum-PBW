@@ -1,0 +1,37 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+a{
+    text-decoration: none;
+}
+b{
+    font-size: 30px;
+}
+h3{
+    margin-left: 375px;
+}
+ol{
+    margin-left: 355px;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-size: 48px;
+    text-align: center;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    line-height: 1.0;
+    margin-left: 375px;
+}
+p{
+    margin-left: 375px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+pre{
+    font-size: 11px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.0;
+    text-align: center;
+}
